@@ -2,8 +2,6 @@
 
 Backend Developer. Programming Instructor. Growing into Infrastructure Engineering.
 
-Based in Egypt • Open to Remote Opportunities
-
 ---
 
 Good software should become easier to maintain as it grows, not harder. That is the standard I hold my work to. I build backend systems with PHP and Laravel, focusing on clean architecture, honest API design, and code that the next engineer — or future me — can read without frustration.
