@@ -10,7 +10,7 @@ Good software should become easier to maintain as it grows, not harder. That is 
 
 Alongside engineering, I teach programming. Explaining something precisely requires understanding it precisely. Teaching keeps my fundamentals sharp and my assumptions honest.
 
-I am actively expanding into Linux, networking, Docker, and cloud infrastructure — because understanding the environment my software runs in makes me a better engineer, not just a more marketable one.
+I am actively expanding into Linux, networking, Docker, and cloud infrastructure — because understanding the environment my software runs in makes me a better engineer, I am actively expanding into Linux, networking, Docker, and cloud infrastructure because software does not end where the application code does.
 
 ---
 
