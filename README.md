@@ -162,6 +162,8 @@ Technology exists to solve real problems. If a tool does not serve that, it is n
 
 ## Connect
 
+## Connect
+
 - **Email:** [ahmedaboelresh2004@gmail.com](mailto:ahmedaboelresh2004@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ahmedsaad](#)
-- **GitHub:** [github.com/ahmedsaad](#)
+- **LinkedIn:** [Ahmed Saad](https://www.linkedin.com/in/ahmed-saad-asm3)
+- **GitHub:** [aboelresh](https://github.com/aboelresh)
